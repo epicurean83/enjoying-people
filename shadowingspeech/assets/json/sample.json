@@ -1,0 +1,112 @@
+[
+  {
+    "locale": "en-US",
+    "title": "The problems that happen at your home.",
+    "script" : [
+      {
+        "sentence": "There are many problems | that can occur | at our homes.",
+        "hint": "우리 가정에서 일어날 수 있는 많은 문제들이 있습니다."
+      },
+      {
+        "sentence": "First, things may not work properly.",
+        "hint": "첫째, 일이 제대로 작동하지 않을 수 있습니다."
+      },
+      {
+        "sentence": "Doors may not open or close well.",
+        "hint": "문이 잘 열리지 않거나 잘 닫히지 않을 수 있습니다."
+      },
+      {
+        "sentence": "Doors may also get locked.",
+        "hint": "문이 잠길 수도 있습니다."
+      },
+      {
+        "sentence": "Switches may not work properly | or | light bulbs may go out.",
+        "hint": "스위치가 제대로 작동하지 않거나 전구가 꺼질 수 있습니다."
+      },
+      {
+        "sentence": "I remember | when the lights went out | in the bathroom.",
+        "hint": "화장실에 불이 꺼졌을 때가 생각난다."
+      },
+      {
+        "sentence": "I had to get | new bulbs | and | replace the old bulbs.",
+        "hint": "새 전구를 구입하고 기존 전구를 교체해야 했습니다."
+      },
+      {
+        "sentence": "Next, | home appliances | or machines | at home | may break down.",
+        "hint": "다음으로 집에 있는 가전제품이나 기계가 고장날 수 있습니다."
+      },
+      {
+        "sentence": "I remember | when the heater broke down | at my house | a few years ago.",
+        "hint": "몇 년 전 집에 히터가 고장 났을 때를 기억합니다."
+      },
+      {
+        "sentence": "It was very cold | because | we didn't have any heating.",
+        "hint": "난방을 하지 않아서 너무 추웠습니다."
+      },
+      {
+        "sentence": "She had to call | a repair person | to fix it.",
+        "hint": "그녀는 수리를 위해 수리 담당자를 불러야 했습니다."
+      },
+      {
+        "sentence": "And then, | something may break | at our homes.",
+        "hint": "그러면 우리 집에 무언가가 고장날 수 있습니다."
+      },
+      {
+        "sentence": "Perhaps, | dishes may break | while you do the dishes.",
+        "hint": "설겆이를 하는 동안 접시가 깨질 수 있습니다."
+      },
+      {
+        "sentence": "In fact, | I remember breaking a dish | while I was doing the dishes | recently.",
+        "hint": "사실 최근에 설거지를 하다가 접시를 깨뜨린 기억이 난다."
+      },
+      {
+        "sentence": "Also, | there may be a leakage | somewhere.",
+        "hint": "또한 어딘가에 누수가 있을 수 있습니다."
+      },
+      {
+        "sentence": "Water | can leak | from the pipes",
+        "hint": "파이프에서 물이 새어 나올 수 있습니다."
+      },
+      {
+        "sentence": "I remember | when the water leaked | from the water cooler | last year.",
+        "hint": "작년에 정수기에서 물이 샐 때가 생각납니다."
+      },
+      {
+        "sentence": "Next, | there may be | bug problems.",
+        "hint": "다음으로 벌레 문제가 있을 수 있습니다."
+      },
+      {
+        "sentence": "I remember | when there were cockroaches | in my house.",
+        "hint": "집에 바퀴벌레가 있었던 기억이 나네요"
+      },
+      {
+        "sentence": "We had to get | rid of them.",
+        "hint": "우리는 그들을 제거해야했습니다."
+      },
+      {
+        "sentence": "Last of all, | there may be | a power outage.",
+        "hint": "마지막으로 정전이 발생할 수 있습니다."
+      },
+      {
+        "sentence": "If the electricity | goes out, | everything stops.",
+        "hint": "전기가 나가면 모든 것이 멈춥니다."
+      },
+      {
+        "sentence": "I remember | when the power went out | at my house | early this year.",
+        "hint": "올해 초에 저희 집에 정전이 되었던 걸로 기억합니다."
+      },
+      {
+        "sentence": "There was a short circuit | somewhere | in the house.",
+        "hint": "집 어딘가에 단락이 있었습니다."
+      },
+      {
+        "sentence": "So, | there it is.",
+        "hint": "그래서 거기있다"
+      },
+      {
+        "sentence": "These are | the problems | that can happen | at our homes.",
+        "hint": "이것들이 우리 가정에서 일어날 수 있는 문제들입니다."
+      }
+    ]
+  }
+]
